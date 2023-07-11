@@ -1,0 +1,8 @@
+D:\pemrograman\AVANSA\obj\Debug\AVANSA.csproj.AssemblyReference.cache
+D:\pemrograman\AVANSA\obj\Debug\AVANSA.csproj.SuggestedBindingRedirects.cache
+D:\pemrograman\AVANSA\obj\Debug\AVANSA.csproj.CoreCompileInputs.cache
+D:\pemrograman\AVANSA\bin\Debug\AVANSA.exe.config
+D:\pemrograman\AVANSA\bin\Debug\AVANSA.exe
+D:\pemrograman\AVANSA\bin\Debug\AVANSA.pdb
+D:\pemrograman\AVANSA\obj\Debug\AVANSA.exe
+D:\pemrograman\AVANSA\obj\Debug\AVANSA.pdb
